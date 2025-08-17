@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, Messa
 from datetime import datetime
 
 # === CONFIG ===
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8389337410:AAEW5N2rbw2oYjhOfQaG62voVOcETb5t42I"
 DAILY_LIMIT = 50
 SPAM_INTERVAL = 5  # seconds
 FROZEN_TIME = 60 * 60  # 1 hour freeze
